@@ -1,4 +1,5 @@
 📍  C# Eğitim Kampı 1. Derste C# diline giriş yaptık yazdırma komutlarını Int ve Stringi gördük ve örnek uygulama yaptık
+
 📍  C# Eğitim Kampı 2. Derste 
 📍  C# Eğitim Kampı 3. Derste bir uygulamayla başladık sonra switch ve switch case yapılarını gördük 
 📍  C# Eğitim Kampı 4. Derste  for ve while döngülerini gördü örnekler yaptık
