@@ -1,0 +1,7 @@
+C:\Users\BEGÜM\source\repos\01_Main_Subject\01_Main_Subject\bin\Debug\01_Main_Subject.exe.config
+C:\Users\BEGÜM\source\repos\01_Main_Subject\01_Main_Subject\bin\Debug\01_Main_Subject.exe
+C:\Users\BEGÜM\source\repos\01_Main_Subject\01_Main_Subject\bin\Debug\01_Main_Subject.pdb
+C:\Users\BEGÜM\source\repos\01_Main_Subject\01_Main_Subject\obj\Debug\01_Main_Subject.csproj.AssemblyReference.cache
+C:\Users\BEGÜM\source\repos\01_Main_Subject\01_Main_Subject\obj\Debug\01_Main_Subject.csproj.CoreCompileInputs.cache
+C:\Users\BEGÜM\source\repos\01_Main_Subject\01_Main_Subject\obj\Debug\01_Main_Subject.exe
+C:\Users\BEGÜM\source\repos\01_Main_Subject\01_Main_Subject\obj\Debug\01_Main_Subject.pdb

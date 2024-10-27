@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BEG\u00DCM\\source\\repos\\01_Main_Subject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5E5C67A-B78F-486E-842F-D13F21927961}|01_Main_Subject\\01_Main_Subject.csproj|c:\\users\\beg\u00FCm\\source\\repos\\01_main_subject\\01_main_subject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5E5C67A-B78F-486E-842F-D13F21927961}|01_Main_Subject\\01_Main_Subject.csproj|solutionrelative:01_main_subject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BEG\u00DCM\\source\\repos\\01_Main_Subject\\01_Main_Subject\\Program.cs",
+              "RelativeDocumentMoniker": "01_Main_Subject\\Program.cs",
+              "ToolTip": "C:\\Users\\BEG\u00DCM\\source\\repos\\01_Main_Subject\\01_Main_Subject\\Program.cs",
+              "RelativeToolTip": "01_Main_Subject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T16:54:19.459Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

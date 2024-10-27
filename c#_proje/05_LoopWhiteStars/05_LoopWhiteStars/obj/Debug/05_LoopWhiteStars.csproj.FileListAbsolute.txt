@@ -1,0 +1,7 @@
+C:\Users\begum\OneDrive\Masaüstü\c#_proje\05_LoopWhiteStars\05_LoopWhiteStars\bin\Debug\05_LoopWhiteStars.exe.config
+C:\Users\begum\OneDrive\Masaüstü\c#_proje\05_LoopWhiteStars\05_LoopWhiteStars\bin\Debug\05_LoopWhiteStars.exe
+C:\Users\begum\OneDrive\Masaüstü\c#_proje\05_LoopWhiteStars\05_LoopWhiteStars\bin\Debug\05_LoopWhiteStars.pdb
+C:\Users\begum\OneDrive\Masaüstü\c#_proje\05_LoopWhiteStars\05_LoopWhiteStars\obj\Debug\05_LoopWhiteStars.csproj.AssemblyReference.cache
+C:\Users\begum\OneDrive\Masaüstü\c#_proje\05_LoopWhiteStars\05_LoopWhiteStars\obj\Debug\05_LoopWhiteStars.csproj.CoreCompileInputs.cache
+C:\Users\begum\OneDrive\Masaüstü\c#_proje\05_LoopWhiteStars\05_LoopWhiteStars\obj\Debug\05_LoopWhiteStars.exe
+C:\Users\begum\OneDrive\Masaüstü\c#_proje\05_LoopWhiteStars\05_LoopWhiteStars\obj\Debug\05_LoopWhiteStars.pdb

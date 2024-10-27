@@ -1,0 +1,7 @@
+C:\Users\BEGÜM\source\repos\06_Arrays_1\06_Arrays_1\bin\Debug\06_Arrays_1.exe.config
+C:\Users\BEGÜM\source\repos\06_Arrays_1\06_Arrays_1\bin\Debug\06_Arrays_1.exe
+C:\Users\BEGÜM\source\repos\06_Arrays_1\06_Arrays_1\bin\Debug\06_Arrays_1.pdb
+C:\Users\BEGÜM\source\repos\06_Arrays_1\06_Arrays_1\obj\Debug\06_Arrays_1.csproj.AssemblyReference.cache
+C:\Users\BEGÜM\source\repos\06_Arrays_1\06_Arrays_1\obj\Debug\06_Arrays_1.csproj.CoreCompileInputs.cache
+C:\Users\BEGÜM\source\repos\06_Arrays_1\06_Arrays_1\obj\Debug\06_Arrays_1.exe
+C:\Users\BEGÜM\source\repos\06_Arrays_1\06_Arrays_1\obj\Debug\06_Arrays_1.pdb

@@ -1,0 +1,7 @@
+C:\Users\BEGÜM\source\repos\08_Metodlar\08_Metodlar\bin\Debug\08_Metodlar.exe.config
+C:\Users\BEGÜM\source\repos\08_Metodlar\08_Metodlar\bin\Debug\08_Metodlar.exe
+C:\Users\BEGÜM\source\repos\08_Metodlar\08_Metodlar\bin\Debug\08_Metodlar.pdb
+C:\Users\BEGÜM\source\repos\08_Metodlar\08_Metodlar\obj\Debug\08_Metodlar.csproj.AssemblyReference.cache
+C:\Users\BEGÜM\source\repos\08_Metodlar\08_Metodlar\obj\Debug\08_Metodlar.csproj.CoreCompileInputs.cache
+C:\Users\BEGÜM\source\repos\08_Metodlar\08_Metodlar\obj\Debug\08_Metodlar.exe
+C:\Users\BEGÜM\source\repos\08_Metodlar\08_Metodlar\obj\Debug\08_Metodlar.pdb

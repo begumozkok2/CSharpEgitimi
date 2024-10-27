@@ -1,0 +1,7 @@
+C:\Users\BEGÜM\source\repos\07_Foreach_Dongusu\07_Foreach_Dongusu\bin\Debug\07_Foreach_Dongusu.exe.config
+C:\Users\BEGÜM\source\repos\07_Foreach_Dongusu\07_Foreach_Dongusu\bin\Debug\07_Foreach_Dongusu.exe
+C:\Users\BEGÜM\source\repos\07_Foreach_Dongusu\07_Foreach_Dongusu\bin\Debug\07_Foreach_Dongusu.pdb
+C:\Users\BEGÜM\source\repos\07_Foreach_Dongusu\07_Foreach_Dongusu\obj\Debug\07_Foreach_Dongusu.csproj.AssemblyReference.cache
+C:\Users\BEGÜM\source\repos\07_Foreach_Dongusu\07_Foreach_Dongusu\obj\Debug\07_Foreach_Dongusu.csproj.CoreCompileInputs.cache
+C:\Users\BEGÜM\source\repos\07_Foreach_Dongusu\07_Foreach_Dongusu\obj\Debug\07_Foreach_Dongusu.exe
+C:\Users\BEGÜM\source\repos\07_Foreach_Dongusu\07_Foreach_Dongusu\obj\Debug\07_Foreach_Dongusu.pdb
